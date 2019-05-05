@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="attractionTitle" type="id" />
+    <item name="attractionDescription" type="id" />
+    <item name="item_selected_msg" type="id" />
+</resources>
